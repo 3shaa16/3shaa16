@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Trisha
+# 👋 Hi all! I'm Trisha!
 
 I enjoy building things, learning new technologies, and improving a little every day.  
 Curious about how systems work from code to cloud!
