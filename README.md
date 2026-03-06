@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Trisha
 
-<!--
-**3shaa16/3shaa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things, learning new technologies, and improving a little every day.  
+Curious about how systems work from code to cloud!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently exploring
+- Data Structures & Problem Solving  
+- Full-stack development (React, Node.js)  
+- Cloud, DevOps, and networking basics  
+
+---
+
+### 🛠️ Tech I use
+Python • Java • C++ • JavaScript • SQL  
+React • Node.js • Express • MongoDB  
+Git • Docker • AWS • Linux  
+
+---
+
+### ✨ A little about me
+- I like hands-on tech work both software and systems
+- Outside tech: sports, volunteering, and creative activities  
+
+---
+
+### 📫 Connect with me
+Email: trishahegde777@gmail.com
