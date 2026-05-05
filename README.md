@@ -7,7 +7,7 @@ Curious about how systems work from code to cloud!
 
 ### 🧠 Currently exploring
 - Data Structures & Problem Solving  
-- Full-stack development (React, Node.js)  
+- Full-stack development   
 - Cloud, DevOps, and networking basics  
 
 ---
