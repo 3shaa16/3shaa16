@@ -23,6 +23,7 @@ Git • Docker • AWS • Linux
 - I like hands-on tech work both software and systems
 - Outside tech: sports, volunteering, and creative activities  
 
+### Fun Fact: My love for math is so deep, I can solve problems even in my sleep 😴✨
 ---
 
 ### 📫 Connect with me
