@@ -1,30 +1,43 @@
-# Hi all! I'm Trisha!
+# Hi, I'm Trisha Hegde 👋
 
-I enjoy building things, learning new technologies, and improving a little every day.  
-Curious about how systems work from code to cloud!
+🎓 MS Computer Science @ San Diego State University
 
----
+I'm passionate about building software and solving real-world problems. I enjoy learning new technologies and working across full-stack development, cloud computing, backend engineering, and AI.
 
-### 🧠 Currently exploring
-- Data Structures & Problem Solving  
-- Full-stack development   
-- Cloud, DevOps, and networking basics  
+### 🚀 Currently Exploring
 
----
+* Data Structures & Algorithms
+* Full-Stack Development
+* Cloud & DevOps
+* Data Analytics
+* AI & RAG Systems
 
-### 🛠️ Tech I use
-Python • Java • C++ • JavaScript • SQL  
-React • Node.js • Express • MongoDB  
-Git • Docker • AWS • Linux  
+### 🛠️ Tech Stack
+# Languages
+Java • Python • C++ • C • JavaScript • SQL • HTML • CSS • Bash • R
+# Frameworks & Libraries
+Spring Boot • React • Node.js • Express • FastAPI • Hibernate
+# Databases
+PostgreSQL • MongoDB • MongoDB Atlas
+# Cloud & DevOps
+AWS • Docker • Terraform • Git • Linux • CI/CD • VMware
 
----
+### 💻 Experience
 
-### ✨ A little about me
-- I like hands-on tech work both software and systems
-- Outside tech: sports, volunteering, and creative activities  
+* Product & UX Redesign Intern — Women Unlimited
+* Technical Support Volunteer — Asian Community Development Center
+* IT Infrastructure Maintenance Intern — Usha Mittal Institute of Technology
+* Web Development Intern — SNDT Women's University
 
-### Fun Fact: My love for math is so deep, I can solve problems even in my sleep 😴✨
----
+### 🌱 Interests
 
-### 📫 Connect with me
-Email: trishahegde777@gmail.com
+Cloud Computing • Backend Engineering • Data Analytics • AI • Networking • Open Source
+
+### 📫 Connect
+
+📧 **Email:** [trishahegde777@gmail.com](mailto:trishahegde777@gmail.com)
+
+💼 **LinkedIn:** *www.linkedin.com/in/trishahegde7*
+
+💻 **GitHub:** *https://github.com/3shaa16*
+
