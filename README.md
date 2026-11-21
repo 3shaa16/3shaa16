@@ -1,43 +1,24 @@
-# Hi, I'm Trisha Hegde 👋
+# Hi, I’m Trisha 👋
 
-🎓 MS Computer Science @ San Diego State University
+🎓 MS Computer Science student at San Diego State University  
+🚗 Car enthusiast combining my love for cars and technology as a Software Engineering Intern at BMW Group USA  
+💻 Interested in software automation, cloud infrastructure, systems engineering, and building useful tools  
 
-I'm passionate about building software and solving real-world problems. I enjoy learning new technologies and working across full-stack development, cloud computing, backend engineering, and AI.
+## What I’m Working On
 
-### 🚀 Currently Exploring
+- Automating engineering workflows and data-processing tasks at BMW
+- Building cloud, networking, and full-stack projects
+- Exploring Python, Java, Angular, Perl, VBA, Linux, Git, and DevOps
+- Learning how software supports real-world automotive and infrastructure systems
 
-* Data Structures & Algorithms
-* Full-Stack Development
-* Cloud & DevOps
-* Data Analytics
-* AI & RAG Systems
+## Tech I Enjoy
 
-### 🛠️ Tech Stack
-**Languages**<br>
-Java • Python • C++ • C • JavaScript • SQL • HTML • CSS • Bash • R<br>
-**Frameworks & Libraries**<br>
-Spring Boot • React • Node.js • Express • FastAPI • Hibernate<br>
-**Databases**<br>
-PostgreSQL • MongoDB • MongoDB Atlas<br>
-**Cloud & DevOps**<br>
-AWS • Docker • Terraform • Git • Linux • CI/CD • VMware<br>
+Python • Java • JavaScript • Angular • Perl • VBA • Linux • Git • Cloud Computing • REST APIs • SQL • Data Visualization
 
-### 💻 Experience
+## Fun Fact
 
-* Product & UX Redesign Intern — Women Unlimited
-* Technical Support Volunteer — Asian Community Development Center
-* IT Infrastructure Maintenance Intern — Usha Mittal Institute of Technology
-* Web Development Intern — SNDT Women's University
+🧠 I love solving challenging math problems—the feeling when everything finally clicks is the best boost!
 
-### 🌱 Interests
+## Let’s Connect
 
-Cloud Computing • Backend Engineering • Data Analytics • AI • Networking • Open Source
-
-### 📫 Connect
-
-📧 **Email:** [trishahegde777@gmail.com](mailto:trishahegde777@gmail.com)
-
-💼 **LinkedIn:** *www.linkedin.com/in/trishahegde7*
-
-💻 **GitHub:** *https://github.com/3shaa16*
-
+[LinkedIn](https://www.linkedin.com/in/trishahegde7) • [GitHub](https://github.com/3shaa16) • [Email](mailto:trishahegde777@gmail.com)
